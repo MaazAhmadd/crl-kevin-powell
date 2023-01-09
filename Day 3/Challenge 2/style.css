@@ -24,7 +24,6 @@ body {
 }
 
 .container {
-  /* width: 100%; */
   /* margin: 0 auto; */
   background: #23424a;
   color: white;
@@ -35,6 +34,7 @@ body {
   width: 50%;
 }
 .container_inner {
+  width: 80%;
   max-width: 750px;
   margin: 0 auto;
 }
