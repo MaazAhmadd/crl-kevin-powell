@@ -73,17 +73,21 @@ header {
   background: #136c72;
   padding: 0.5em 0;
 }
-
+.nav {
+  display: flex;
+  justify-content: space-between;
+}
 .nav__list {
+  display: flex;
   justify-content: left;
   gap: 2em;
   margin-top: 1em;
   margin-bottom: 1em;
-  /* margin: 0;
+  /* margin: 0; 
   padding: 0; */
   list-style: none;
   /* display: flex;
-  gap: 1.5em;
+  gap: 1.5em; 
   margin-left: 5em; */
 }
 
