@@ -278,7 +278,7 @@ img {
     align-items: center;
   }
   .nav {
-    display: block;
+    display: block !important;
   }
   .nav__list {
     display: flex;
